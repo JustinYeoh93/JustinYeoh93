@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![Justin's GitHub stats](https://github-readme-stats.vercel.app/api?username=justinyeoh93&show_icons=true)
+
 <!--
 **JustinYeoh93/JustinYeoh93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
